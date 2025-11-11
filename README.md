@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+  <span style="font-family: monospace;">0xce3</span> — Code. Debug. Repeat.
+</h1>
 
-<!--
-**0xce3/0xce3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Embedded+Engineer;Linux+Ninja;Firmware+Architect;C%2FC%2B%2B%2FPython%2FYAML" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" width="400">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
