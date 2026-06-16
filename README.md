@@ -9,5 +9,3 @@
 <p align="center">
   <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" width="400">
 </p>
-
----
